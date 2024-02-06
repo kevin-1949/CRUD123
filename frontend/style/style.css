@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #fff;
+}
+
+#main{
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#marco{
+    background-color: #fff;
+}
+
+.tarjeta{
+    font-size: 20px;
+}
+
+.form-group{
+    padding: 15px;
+}
